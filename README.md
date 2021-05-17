@@ -1,4 +1,4 @@
-# Fast-API 🚀
+# Fast-API template for Projects
 
 ### Why This ? 🤨
     Clean and Scalable Code Architecture for ML/DL and NLP driven micro-service based Projects.
